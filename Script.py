@@ -691,7 +691,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://telegram.me/New123459'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://telegram.me/Vikastime'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
 -Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
 
@@ -703,7 +703,7 @@ special Thanks To ❤️ Developers -
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @New123459
+# Ask Doubt on telegram @Vikastime
 
 
     
